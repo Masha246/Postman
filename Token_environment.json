@@ -1,0 +1,15 @@
+{
+	"id": "b229d6cf-edae-4557-8e0e-935298f3ea65",
+	"name": "Token",
+	"values": [
+		{
+			"key": "token",
+			"value": " \"token\": \"/s34lfgbj/None/jjd909/94352kjkWpqc1254None22560evny\"\n}",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-11-17T16:17:38.292Z",
+	"_postman_exported_using": "Postman/11.19.0"
+}
